@@ -2,19 +2,19 @@
 [![Country](https://img.shields.io/badge/country-Indonesia-blue.svg)](#)
 [![Version](https://badgen.net/badge/Rehat/Alpha/f2a)](#)
 
-## What is Rehat?
+# What is **Rehat**?
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 #
 
-## Product Use Case Scenario
-
-#
+# Product Use Case Scenario
 
 ![Group of scenario use for Feature Explanation.](https://storage.googleapis.com/rehat/Scenario%20Feature%20Use.png)
 
-## Rehat Github Path
+</br>
+
+# Rehat Github Path
 
 |                        |                                        |
 | ---------------------- | -------------------------------------- |
@@ -23,9 +23,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Deploy ML Model        | https://github.com/rehat-app/Deploy-ML |
 | Android Mobile Apps    | upcoming                               |
 
-## Collabolator
+</br>
 
----
+# Collabolator
 
 ### Google Bangkit 2022 Capstone Project - Rehat - [ B21-CAP0218 ]
 
