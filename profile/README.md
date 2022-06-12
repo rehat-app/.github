@@ -19,16 +19,11 @@ Rehat is an platform that utilizes machine learning to evaluate one’s sleep ba
 |                        |                                        |
 | ---------------------- | -------------------------------------- |
 | REST API & GCP Config  | https://github.com/rehat-app/rehatAPI  |
-| Machine Learning Model | upcoming                               |
+| Machine Learning Model | https://github.com/rehat-app/Model-ML  |
 | Deploy ML Model        | https://github.com/rehat-app/Deploy-ML |
 | Android Mobile Apps    | upcoming                               |
 
 </br>
-
-#Rehat Github Path
-* [Machine Learning](https://github.com/sindychairunisa/Rehat-ML)
-* [Cloud Computing]
-* [Mobile Apps Android]
 
 # Collabolator
 
