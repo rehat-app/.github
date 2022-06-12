@@ -26,7 +26,7 @@ Rehat is an platform that utilizes machine learning to evaluate one’s sleep ba
 
 # Collabolator
 
-### Google Bangkit 2022 Capstone Project - Rehat - [ B21-CAP0218 ]
+### Google Bangkit 2022 Capstone Project - Rehat - [ C22-PS287 ]
 
 - Ardhana Putra Wibowo (M2002F0039) - Machine Learning & Mobile Development - Institut Teknologi Bandung
 - Jovanka Alvira Wijaya (M2004F0198) - Machine Learning - Institut Teknologi Sepuluh Nopember
