@@ -4,7 +4,7 @@
 
 # What is **Rehat**?
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+REHAT checkup of the body for sleep deprivation, either for personal purposes or for the community who want to know the condition of its members. So, we can be more productive and can optimize the performance of workers by getting enough sleep. Using face camera to identify person who are sleep deprivated and provide recommendations for improving their sleep quality.
 
 #
 
@@ -16,12 +16,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 # Rehat Github Path
 
-|                        |                                        |
-| ---------------------- | -------------------------------------- |
-| REST API & GCP Config  | https://github.com/rehat-app/rehatAPI  |
-| Machine Learning Model | upcoming                               |
-| Deploy ML Model        | https://github.com/rehat-app/Deploy-ML |
-| Android Mobile Apps    | upcoming                               |
+|                         |                                               |
+| ----------------------- | --------------------------------------------- |
+| REST API & GCP Config   | https://github.com/rehat-app/rehatAPI         |
+| Machine Learning Eyelid | https://github.com/rehat-app/ML-EyelidModel   |
+| Machine Learning Eyebag | https://github.com/rehat-app/ML-EyebagModel   |
+| Deploy ML Model         | https://github.com/rehat-app/Deploy-ML        |
+| Android Mobile Apps     | https://github.com/rehat-app/rehat-AndroidApp |
 
 </br>
 
@@ -29,9 +30,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Google Bangkit 2022 Capstone Project - Rehat - [ B21-CAP0218 ]
 
-- Ardhana Putra Wibowo (M2002F0039) - Machine Learning - Institut Teknologi Bandung
+- Ardhana Putra Wibowo (M2002F0039) - Machine Learning & Mobile Development - Institut Teknologi Bandung
 - Jovanka Alvira Wijaya (M2004F0198) - Machine Learning - Institut Teknologi Sepuluh Nopember
 - Sindy Chairunisa (M2004F0203) - Machine Learning - Institut Teknologi Sepuluh Nopember
-- Daffa Kurnia Fatah (A2004F0272) - Mobile Development - Institut Teknologi Sepuluh Nopember
 - Muhammad Lutfi Pratama (C7296F2515) - Cloud Computing - Universitas Pembangunan Nasional Veteran Jawa Timur
 - Raihan Hakim (C2002G0056) - Cloud Computing - Institut Teknologi Bandung
