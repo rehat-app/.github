@@ -4,7 +4,7 @@
 
 # What is **Rehat**?
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Rehat is an platform that utilizes machine learning to evaluate one’s sleep based on this problem by detecting whether someone is having sleep deprivation or not with face detection. So, we would also utilize this app as a community empowerment to detect how bad each community members can have sleep deprivation and how it affecting their works by creating room feature with host.
 
 #
 
@@ -24,6 +24,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Android Mobile Apps    | upcoming                               |
 
 </br>
+
+#Rehat Github Path
+* [Machine Learning](https://github.com/sindychairunisa/Rehat-ML)
+* [Cloud Computing]
+* [Mobile Apps Android]
 
 # Collabolator
 
